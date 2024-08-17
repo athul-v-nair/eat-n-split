@@ -1,7 +1,7 @@
 # Eat-n-Split
 -------------
 Eat-n-Split is an app designed to help you divide the bill among friends and keep track of outstanding payments.
-sda
+
 
 # React + TypeScript + Vite
 
